@@ -1,0 +1,13 @@
+body{
+  width: 1530px;
+  height: 1500px;
+  margin: 0;
+  background-image: url(img/92d5f26cebe0c738ac10d4c4b9512ca7.gif);
+  background-size: cover;
+}
+
+.myBlueDiv {
+  text-align: center;
+  padding-top: 700px;
+}
+
